@@ -1,5 +1,11 @@
-# S610_Final_Project
-Contents include data and code to analyze the spatial (and temporal) relationships of US counties with regard to opioid incidence.   
+# S610_研究项目建议书   
 
-See data_folder.zip for test data. 
-test_file.R contains generic tests of each of our implemented functions. 
+这是一个空间统计学研究项目，研究话题是美国当下发生的阿片类药物泛滥危机。
+
+本仓库中的内容包括了数据和代码，分析了阿片类药物泛滥在美国郡县的空间和时间上的相关性。
+
+参考 data_folder.zip 作为测试数据。
+
+《研究项目建议书（中文）》是最具体、详尽的研究报告。
+
+test_file.R 包含了我们每一个函数的测试
